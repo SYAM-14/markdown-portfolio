@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_**SKILLS**_
+_Figma_
+_C++_
+_HTML_
+
+**ATTRIBUTES**
+_Work hard and good **leadership** qualities_ 
